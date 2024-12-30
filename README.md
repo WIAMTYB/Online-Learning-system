@@ -3,8 +3,7 @@
 ## Overview
 This project is an **Online Learning System** built using **PHP** and **MySQL**. It allows users (students, instructors, and admins) to manage and access online courses. Admins can manage courses and users, instructors can create and manage their courses, and students can enroll in courses and track their progress.
 
-### Video on Youtube
-► [Subscribe Us:](https://www.youtube.com/codingwithelias?sub_confirmation=1)
+
 
 ## Features
 - **User Registration and Login**
